@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+}
+
+.main-block {
+  height: 800px;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+p {
+  margin: 0;
+}
+
+.main-block div {
+  width: 200px;
+  height: 200px;
+  border: 2px solid gray;
+  text-align: center;
+  line-height: 200px;
+  font-size: 25px;
+}
+.try1 {
+  background-color: #8B0000;
+}
+
+.try2 {
+  background-color: #8b830c;
+}
+.try3 {
+  background-color: #ffd62b;
+}
+
+.try4{
+  background-color: #338b56;
+}
+
+.try5{
+  background-color: #4a538b;
+}
